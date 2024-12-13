@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-// Product Class
+// Book Class
 class Book implements Serializable {
     private String name;
     private float quantity;
